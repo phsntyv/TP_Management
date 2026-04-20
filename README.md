@@ -43,7 +43,7 @@ Ce projet s'inscrit dans un environnement incertain, avec des enjeux à la fois 
 
 ## 🎯 Vision du projet
 
-> Pour **[cible]**, notre solution permet de **[résoudre le problème]**, afin de **[valeur apportée]**, contrairement à **[solution existante]**.
+> Pour **l'enterpise**, notre solution permet de **simplifier le travail bureautique**, afin de **uniformiser les reflexions**, contrairement à **l'utilisation manuel des outils bureautique**.
 
 ---
 
@@ -51,9 +51,9 @@ Ce projet s'inscrit dans un environnement incertain, avec des enjeux à la fois 
 
 | # | Objectif | Mesure | Échéance |
 |---|----------|--------|----------|
-| 1 | *À définir* | *KPI* | *Date* |
-| 2 | *À définir* | *KPI* | *Date* |
-| 3 | *À définir* | *KPI* | *Date* |
+| 1 | *Automatiser les rapports écrit* | *% de rapports automatisé* | *< 3 months* |
+| 2 | *Automatiser les RDV* | *% de RDV automatisé* | *< 6 months* |
+| 3 | *Automatiser les notes frais* | *% de notes des frais automatisé* | *< 9 months* |
 
 ---
 
@@ -156,14 +156,14 @@ Chaque User Story contient :
 
 | ID | En tant que | Je veux | Afin de | Priorité | Points |
 |----|------------|---------|---------|----------|--------|
-| US-1 | | | | | |
-| US-2 | | | | | |
-| US-3 | | | | | |
-| US-4 | | | | | |
-| US-5 | | | | | |
-| US-6 | | | | | |
-| US-7 | | | | | |
-| US-8 | | | | | |
+| US-1 | Collaborateur | générer un rapport automatique à partir de mes données | supprimer la rédaction manuelle et chronophage | Haute | 5 |
+| US-2 | Manager | imposer des modèles de rapports prédéfinis | uniformiser les réflexions et la structure des livrables | Haute | 3 |
+| US-3 | Commercial | proposer un lien de prise de rendez-vous synchronisé | automatiser la gestion de mon calendrier | Haute | 5 |
+| US-4 | Client | recevoir des rappels automatiques avant un RDV | réduire les oublis et les relances manuelles | Moyenne | 2 |
+| US-5 | Employé | scanner mes reçus via une reconnaissance optique | automatiser la création de mes notes de frais | Haute | 8 |
+| US-6 | Comptable | valider automatiquement les notes de frais conformes | accélérer le processus de remboursement | Moyenne | 5 |
+| US-7 | Administrateur | centraliser l'ensemble des documents produits | simplifier l'accès à l'information pour l'entreprise | Faible | 3 |
+| US-8 | Utilisateur | intégrer mes outils bureautiques actuels à la solution | abandonner l'utilisation manuelle isolée des outils | Moyenne | 5 |
 
 > ℹ️ Minimum 8 user stories requises.
 

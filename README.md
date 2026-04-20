@@ -6,6 +6,7 @@
 **Module :** Management de Projet & Équipes IT  
 **Formateur :** Ayedesso Marc Aurèle CHABI ADJOBO  
 **TP :** Séance 4 — Structuration en Scrum
+**Auteurs :** Tayvadi Phaisan, Mathis Silotia, Mariama Diakhite, Claude Sabinotte, Camille Douaud
 
 ---
 
